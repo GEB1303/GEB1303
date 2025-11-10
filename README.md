@@ -1,39 +1,43 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Gabriel Echegollén Bobadilla 👋
 
-###
+### Senior Technical Support Engineer
 
-<p align="left">My name is Gabriel Echegollen Bobadilla</p>
+I am an experienced IT professional with over 20 years of experience in multinational corporations. My focus is on consistently achieving efficient, timely results centered on customer satisfaction.
 
-###
+I have a proven track record of optimizing processes, automating recurrent tasks, writing knowledge articles, and creating programs to improve customer service. My expertise also includes mentoring and team leadership.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🛠️ My Toolkit & Expertise
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+Here is a summary of the technologies and methodologies I work with:
 
-###
+### Key Areas of Expertise
+* **Team Leading and Mentoring**
+* **Strong Analytical and Problem-Solving Abilities**
+* **Troubleshooting Complex Systems**
+* **Troubleshooting Rest Api**
+* **Customer Relationship and Satisfaction**
 
-<h2 align="left">I code with</h2>
+### Technologies & Platforms
+* **Cloud (AWS):** AWS EC2, AWS IAM, AWS CLI
+* **Databases:** SQL, PL/SQL, SQLDeveloper, pgAdmin, SQL Server Management Studio
+* **Operating Systems:** Linux, Windows, Unix
+* **Software & Tools:** Jira, Confluence, Java/J2EE, Postman, Fiddler
+* **Methodologies:** ITIL 4, Scrum, Agile
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+## 📈 My Career Summary
 
-###
+* **Senior Support Engineer at e-Core** (June 2024 - Present)
+    * Resolving complex technical issues for Atlassian Jira Data Center and Hybrid Cloud.
+    * Mentoring and training new team members.
+
+* **Senior Technical Support Engineer at BMC Software** (2016 - 2025)
+    * Managed and resolved customer issues related to BMC products.
+    * Maintained a customer satisfaction rating exceeding 93%.
+    * Created knowledge content for BMC's YouTube channel.
+
+* **Senior Business Analyst at Tata Consultancy Services** (2014 - 2016)
+    * Demonstrated proficiency in Dynamic SQL, PL/SQL, and debugging
